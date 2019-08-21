@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meeting_API", "Meeting_App\Meeting_API.csproj", "{5EED480E-923E-4D2D-9CC2-7782BFA75DE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EED480E-923E-4D2D-9CC2-7782BFA75DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EED480E-923E-4D2D-9CC2-7782BFA75DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EED480E-923E-4D2D-9CC2-7782BFA75DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EED480E-923E-4D2D-9CC2-7782BFA75DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C9B6D91-E553-426D-A0F5-DFB484470C56}
+	EndGlobalSection
+EndGlobal
